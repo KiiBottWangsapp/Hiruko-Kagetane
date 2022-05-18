@@ -22,12 +22,12 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'Hiruko Kagetane' //Ganti Jadi Nama Botmu
-global.packname = 'Hiruko Kagetane' //Sticker Weem
-global.author = 'By Ryuuka Team' //Sticker Weem
+global.namaowner = 'Tsyaa' //Ganti Jadi Namamu
+global.owner = ['6281358960973','62895632979273'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6281358960973' //Owner Utama Istilahnya
+global.namabot = 'TsyaaBot' //Ganti Jadi Nama Botmu
+global.packname = 'Tsyaa' //Sticker Weem
+global.author = 'By Syaa.' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
 global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
